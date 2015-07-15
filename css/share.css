@@ -114,6 +114,12 @@ h2 {
 }
 
 
+ .centerImage
+     {
+     text-align:center;
+     display:block;
+        }
+
 
 button {
     font-family: "Open Sans", sans-serif;
